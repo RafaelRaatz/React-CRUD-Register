@@ -21,10 +21,10 @@ export function Card({ name, age, developer, onClick, onDelete }: IUser) {
           <span className="name">{name}</span>
           <div className="infos">
             <span>
-              <b>Age:</b> {age} Anos
+              <b>Age:</b> {age}
             </span>
-            <b>|</b>
-            <span>{developer}</span>
+            <b>| </b>
+            <span> {developer} </span>
           </div>
         </div>
       </div>
