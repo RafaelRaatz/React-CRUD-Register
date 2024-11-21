@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "id": "f5fa",
+      "name": "Bob Bobson",
+      "age": "25",
+      "email": "Bob@gmail.com",
+      "Developer": "xbox",
+      "favorite_game": "Halo 3"
+    },
+    {
+      "name": "Peter Peterson",
+      "age": "21",
+      "email": "peter@gmail.com",
+      "Developer": "Playstation",
+      "favorite_game": "Uncharted 4",
+      "id": "c8cf"
+    }
+  ]
+}
